@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Renata-Isis.github.io/blog-dev/static/css/main.a462f9d6.css",
+    "main.js": "/Renata-Isis.github.io/blog-dev/static/js/main.1488aa94.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Renata-Isis.github.io/blog-dev/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Renata-Isis.github.io/blog-dev/index.html",
+    "main.a462f9d6.css.map": "/Renata-Isis.github.io/blog-dev/static/css/main.a462f9d6.css.map",
+    "main.1488aa94.js.map": "/Renata-Isis.github.io/blog-dev/static/js/main.1488aa94.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Renata-Isis.github.io/blog-dev/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a462f9d6.css",
+    "static/js/main.1488aa94.js"
+  ]
+}
