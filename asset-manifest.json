@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Renata-Isis.github.io/blog-dev/static/css/main.a462f9d6.css",
-    "main.js": "/Renata-Isis.github.io/blog-dev/static/js/main.ff22bbe8.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Renata-Isis.github.io/blog-dev/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/Renata-Isis.github.io/blog-dev/index.html",
-    "main.a462f9d6.css.map": "/Renata-Isis.github.io/blog-dev/static/css/main.a462f9d6.css.map",
-    "main.ff22bbe8.js.map": "/Renata-Isis.github.io/blog-dev/static/js/main.ff22bbe8.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Renata-Isis.github.io/blog-dev/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/blog-dev/static/css/main.a462f9d6.css",
+    "main.js": "/blog-dev/static/js/main.48b4f8ae.js",
+    "static/js/787.28cb0dcd.chunk.js": "/blog-dev/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/blog-dev/index.html",
+    "main.a462f9d6.css.map": "/blog-dev/static/css/main.a462f9d6.css.map",
+    "main.48b4f8ae.js.map": "/blog-dev/static/js/main.48b4f8ae.js.map",
+    "787.28cb0dcd.chunk.js.map": "/blog-dev/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a462f9d6.css",
-    "static/js/main.ff22bbe8.js"
+    "static/js/main.48b4f8ae.js"
   ]
 }
